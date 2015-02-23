@@ -8,7 +8,7 @@ new concept, bit of syntax, command, or tip that we've learned.
 
 When you learn something, add a Markdown file to this repo explaining it in concise terms. Place the file in a directory which best describes the content of the tip. Create a new directory if no existing one fits.
 
-Open a pull request for review.
+Make your own branch and push it to the repo. Open a pull request for review.
 
 # License
 

@@ -36,7 +36,7 @@ var obj = exports.obj = {
 Importing them is similiar to python with the import from syntax. In ES5, you would use `require`.
 
 ```js
-import Hello from 'app'
+import Hello from 'app';
 ```
 
 You can also use `default` which is similiar to `module.exports` in ES5.

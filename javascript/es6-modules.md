@@ -33,13 +33,13 @@ var obj = exports.obj = {
 };
 ```
 
-Importing them is similiar to python with the import from syntax. In ES5, you would use `require`.
+Importing them is similar to python with the import from syntax. In ES5, you would use `require`.
 
 ```js
 import Hello from 'app';
 ```
 
-You can also use `default` which is similiar to `module.exports` in ES5.
+You can also use `default` which is similar to `module.exports` in ES5.
 
 ```js
 // hero.js

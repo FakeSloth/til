@@ -1,6 +1,6 @@
 # ES6 Modules
 
-In the [next version of JavaScript (ES6)](ES6), modules are added in and are inspired by popular JavaScript module loaders (AMD, CommonJS). Here is what they look like:
+In the [next version of JavaScript (ES6)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla), modules are added in and are inspired by popular JavaScript module loaders (AMD, CommonJS). Here is what they look like:
 
 ```js
 // app.js
@@ -53,5 +53,3 @@ export default class Hero {
   }
 }
 ```
-
-[ES6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla

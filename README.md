@@ -13,4 +13,4 @@ Make your own branch and push it to the repo. Open a pull request for review.
 # License
 
 TIL is © 2015 FakeSloth.
-It is distributed under the the GNU GPLv2 license.
+It is distributed under the the [GNU GPLv2 license](LICENSE).

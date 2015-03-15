@@ -1,6 +1,6 @@
 # Print In Tables
 
-If you're making a terminal-based application with Ruby, you'll likely want to include a "help" command with all of the functions your app can perform.
+If you're making a terminal-based application with Ruby, you'll likely want to include a "help" command listing all of the functions your app can perform.
 Normally, this results in a list with awkward formating being printed to the console.
 A solution? [pretty_table](https://github.com/jwulff/pretty_table).
 

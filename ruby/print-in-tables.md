@@ -1,7 +1,7 @@
 # Print In Tables
 
-If you're making a terminal-based application with Ruby, you'll likely want to make a "help" command.
-Normally, doing this is a huge pain as it seems like however you format it, it's never quite right.
+If you're making a terminal-based application with Ruby, you'll likely want to include a "help" command with all of the functions your app can perform.
+Normally, this results in a list with awkward formating being printed to the console.
 A solution? [pretty_table](https://github.com/jwulff/pretty_table).
 
 This is a gem that will allow you to easily print large amounts of data in nicely formated tables. Interested? Here's how it works:

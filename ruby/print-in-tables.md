@@ -1,6 +1,6 @@
 # Print In Tables
 
-If you're making a terminal-based application with ruby, you'll likely want to make a "help" command.
+If you're making a terminal-based application with Ruby, you'll likely want to make a "help" command.
 Normally, doing this is a huge pain as it seems like however you format it, it's never quite right.
 A solution? [pretty_table](https://github.com/jwulff/pretty_table).
 

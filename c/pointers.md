@@ -7,7 +7,7 @@ from a pointer, you must __dereference__ the pointer. Dereferencing a pointer
 means getting the value that is stored in the memory location pointed by the 
 pointer. The operator `*` is used to do this, and is called the 
 __dereferencing__ operator. To get the memory address of a object, you use 
-the __address__ operator which is `&`. Here is an example using pointers.
+the __address__ operator which is `&`. Here is an example using pointers:
 
 ```c
 int i; // define a integer called i

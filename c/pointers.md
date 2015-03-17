@@ -1,10 +1,10 @@
 # Pointers
 
-A pointer is a __reference__ to a value. **Pointers** points to another value 
+A pointer is a __reference__ to a value. **Pointers** point to another value 
 stored elsewhere such as variables or arrays. The pointers actual value is a 
 __memory address__. To get the value of the reference variable, array, or etc 
 from a pointer, you must __dereference__ the pointer. Dereferencing a pointer 
-means getting the value that is stored in the memory location pointed by the 
+means getting the value that is stored in the memory location pointed to by the 
 pointer. The operator `*` is used to do this, and is called the 
 __dereferencing__ operator. To get the memory address of a object, you use 
 the __address__ operator which is `&`. Here is an example using pointers:
@@ -19,7 +19,7 @@ p = &i; // p points to the variable i
 // prints out a memory address
 printf("%p\n", p); // => 00000001
 
-// prints out a the variable i's value when deferencing
+// prints out the variable i's value when deferencing
 printf("%d\n", *p); // => 10
 ```
 
